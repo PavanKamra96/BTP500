@@ -1,7 +1,8 @@
-// Name: Pavan Kumar Kamra
-// Student Id: 019384148
-// Course: BTP500
-// Purpose: Lab#1 -- Factorial, Power, and Fibonacci functions
+/** 
+*   Name: Pavan Kumar Kamra
+*   Course: BTP500
+*   Purpose: Lab#1 -- Factorial, Power, and Fibonacci functions
+**/
 
 //factorial function is calculated by multiplying every number between 1 and n
 unsigned int factorial (unsigned int n)
