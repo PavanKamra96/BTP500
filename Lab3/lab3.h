@@ -1,6 +1,5 @@
 /**
 * Name: Pavan Kumar Kamr
-* Student Id: 019384148
 * Course: BTP500
 * Purpose: To explore singly vs. doubly linked list; and explore the use of sentinel nodes. 
 **/
